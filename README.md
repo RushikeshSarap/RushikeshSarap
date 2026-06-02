@@ -52,17 +52,24 @@ Building scalable applications, exploring AI systems, and solving real-world pro
 
 ## 🌟 Featured Projects
 
-### 🔨 BidBazaar – Online Auction Platform
+### ✈️ Travello – Agentic Travel Planning System
+An intelligent travel planning platform developed during the Augenblick Hackathon. Designed to automate itinerary generation, optimize travel decisions, and provide personalized recommendations through agent-based workflows.
 
-Full-stack auction platform with authentication, bidding system, product management and secure backend architecture.
+**Tech:** JavaScript, APIs, AI Concepts, Full Stack Development
 
-### 🤖 AI & Machine Learning Projects
+---
 
-Exploring machine learning fundamentals, predictive systems and intelligent applications.
+### 📋 Smart Tender Allocation System
+A smart allocation platform designed to improve fairness, efficiency, and transparency in tender evaluation and assignment processes.
 
-### 📊 Data Structures & Algorithms
+**Tech:** JavaScript, System Design, Database Management
 
-Collection of optimized solutions and problem-solving approaches.
+---
+
+### 🚗 Parkwise – Smart Parking System
+A smart parking management solution focused on reducing parking search time, improving space utilization, and enhancing urban mobility.
+
+**Tech:** JavaScript, Web Development, Smart City Applications
 
 ---
 
