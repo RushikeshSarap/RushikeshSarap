@@ -3,9 +3,11 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Sarap</h1>
 <h3 align="center">🚀 Aspiring Software Engineer | AI & System Design Enthusiast | Computer Science Undergraduate</h3>
 
-<img align="right" alt="Coding" width="350" src="/assets/Working_image.png">
+
 
 ---
+
+<img align="right" alt="Coding" width="350" src="/assets/Working_image.png">
 
 ### 👨‍🎓 About Me
 
