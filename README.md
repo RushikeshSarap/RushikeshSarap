@@ -1,92 +1,109 @@
-![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Rushikesh Sarap</h1>
-<h3 align="center">🚀 Aspiring Software Engineer | AI & System Design Enthusiast | Computer Science Undergraduate</h3>
+<img src="./assets/Working_image.png" width="400"/>
 
+# Hi 👋 I'm Rushikesh Sarap
 
+### Computer Engineering Student • Backend Developer • AI Enthusiast
 
----
+Building scalable applications, exploring AI systems, and solving real-world problems through software engineering.
 
-<img align="right" alt="Coding" width="350" src="/assets/Working_image.png">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/rushikesh-sarap/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/RushikeshSarap/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=hackerrank)](https://www.hackerrank.com/rushikesh_jk)
 
-### 👨‍🎓 About Me
-
-- 🎓 I'm pursuing **Bachelor of Engineering in Computer Science**
-- 💡 Passionate about **AI, Blockchain, System Security & Backend Development**
-- 🌱 Currently strengthening my foundation in **Data Structures, Algorithms & Java**
-- 🛠️ Working with **Node.js, MySQL, JWT Authentication & Full Stack Systems**
-- 💬 Ask me about **Java, DSA, Backend Development**
-- ⚡ Fun fact: I love solving complex problems and turning ideas into scalable systems
+</div>
 
 ---
 
-### 🌐 Portfolio & Projects
+## 🚀 About Me
 
-👨‍💻 All of my projects are available here:  
-👉 **https://github.com/RushikeshSarap**
-
----
-
-### 📫 Reach Me At
-
-📧 **saraprushikesh05@gmail.com**
+* 🎓 B.E. Computer Engineering Student
+* 💻 Passionate about Backend Development, AI and System Design
+* 🌱 Currently mastering Data Structures & Algorithms
+* 🔐 Interested in Security, Scalable Systems and Cloud Computing
+* 🏗️ Building full-stack applications with modern technologies
+* 🎯 Preparing for Software Engineering roles
 
 ---
 
-### 🤝 Connect with Me
+## 🛠️ Tech Stack
 
-<p align="left">
-<a href="https://www.linkedin.com/in/rushikesh-sarap/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
+### Languages
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 
-<a href="https://www.hackerrank.com/rushikesh_jk" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
-</a>
+### Development
 
-<a href="https://leetcode.com/RushikeshSarap/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-</a>
-</p>
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
----
+### Tools & Platforms
 
-### 🛠️ Languages and Tools
-
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+## 🌟 Featured Projects
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&layout=compact" />
-</p>
+### 🔨 BidBazaar – Online Auction Platform
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en" />
-</p>
+Full-stack auction platform with authentication, bidding system, product management and secure backend architecture.
 
----
+### 🤖 AI & Machine Learning Projects
 
-### 🚀 Current Focus
+Exploring machine learning fundamentals, predictive systems and intelligent applications.
 
-- Advanced **Data Structures & Algorithms**
-- Scalable Backend Architecture
-- AI-based Intelligent Systems
-- Secure and Smart Tender Allocation Systems
+### 📊 Data Structures & Algorithms
+
+Collection of optimized solutions and problem-solving approaches.
 
 ---
 
-⭐️ From **Rushikesh Sarap**
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RushikeshSarap&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushikeshSarap&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RushikeshSarap&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+* Advanced Data Structures & Algorithms
+* System Design Fundamentals
+* Backend Development with Node.js
+* Machine Learning & AI
+* Placement Preparation
+
+---
+
+## 📫 Contact
+
+📧 **[saraprushikesh05@gmail.com](mailto:saraprushikesh05@gmail.com)**
+
+💼 **LinkedIn:** https://www.linkedin.com/in/rushikesh-sarap/
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider starring my repositories!
+
+</div>
