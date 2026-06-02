@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Sarap</h1>
 <h3 align="center">🚀 Aspiring Software Engineer | AI & System Design Enthusiast | Computer Science Undergraduate</h3>
 
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+<img align="right" alt="Coding" width="350" src="">
 
 ---
 
@@ -11,10 +11,9 @@
 
 - 🎓 I'm pursuing **Bachelor of Engineering in Computer Science**
 - 💡 Passionate about **AI, Blockchain, System Security & Backend Development**
-- 🔭 Currently building **Violence Detection System using Neural Networks (AI & Deep Learning)**
 - 🌱 Currently strengthening my foundation in **Data Structures, Algorithms & Java**
 - 🛠️ Working with **Node.js, MySQL, JWT Authentication & Full Stack Systems**
-- 💬 Ask me about **C++, DSA, Backend Development**
+- 💬 Ask me about **Java, DSA, Backend Development**
 - ⚡ Fun fact: I love solving complex problems and turning ideas into scalable systems
 
 ---
@@ -22,32 +21,29 @@
 ### 🌐 Portfolio & Projects
 
 👨‍💻 All of my projects are available here:  
-👉 **https://github.com/YOUR_GITHUB_USERNAME**
+👉 **https://github.com/RushikeshSarap**
 
 ---
 
 ### 📫 Reach Me At
 
-📧 **your-email@example.com**
+📧 **saraprushikesh05@gmail.com**
 
 ---
 
 ### 🤝 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="blank">
+<a href="https://www.linkedin.com/in/rushikesh-sarap/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 
-<a href="https://instagram.com/YOUR-INSTAGRAM" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
 
-<a href="https://www.hackerrank.com/YOUR-HACKERRANK" target="blank">
+<a href="https://www.hackerrank.com/rushikesh_jk" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
 </a>
 
-<a href="https://leetcode.com/YOUR-LEETCODE/" target="blank">
+<a href="https://leetcode.com/RushikeshSarap/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
 </a>
 </p>
